@@ -19,8 +19,6 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: 数据库技术知识
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 服务器技术知识
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 footer:
   copyright: © 2021-present
