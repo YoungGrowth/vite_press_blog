@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t}from"./chunks/framework.BoUexNPV.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"java_second","filePath":"src/java/Java内置包装类.md","lastUpdated":1719914133000}'),s={name:"java_second"};function o(r,c,_,n,d,p){return t(),e("div")}const l=a(s,[["render",o]]);export{f as __pageData,l as default};
